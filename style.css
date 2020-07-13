@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Nov-2019, 2:44:25 PM
+    Author     : faisal9878
+*/
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+div{
+    font-family: sans-serif;
+}
+.nav-height{
+    height: 1000px;
+    
+}
+.signuplink{
+    float:right;
+}
+.footer{
+   padding: 10px 0;
+   background-color: #101010;
+   color:#9d9d9d;
+   width: 100%;
+   position: fixed;
+   bottom: 0px;
+   
+   
+}
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(img/intro-bg_1.jpg) no-repeat center;
+    background-size: cover;
+    
+    
+    
+}
+a{
+    text-decoration: none;
+    background-color: transparent;
+    color: rgb(0,0,255);
+}
+
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+
+.items{
+    width:30%;
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    float:left;
+    margin-left:1%
+}
